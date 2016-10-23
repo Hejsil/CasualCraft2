@@ -1,2 +1,4 @@
-Zerg spawner for all units
-Protos spawner for all units
+Fix unit transform
+Templar Morph makes Templar Buildings spawn new Templar
+Enginering bay does nothing
+Disable unpowered Protos buildings
